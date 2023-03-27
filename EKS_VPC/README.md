@@ -42,5 +42,5 @@
   
 pre-Requisits = AWS CLi installed, kubectl installed and AWS-iam-authenticator installed
 
-aws eks update-kubeconfig --name myapp-eks-cluster --region us-east-1
-aws eks update-kubeconfig --name [name of EKS cluster] --region [region for aws config] 
+    aws eks update-kubeconfig --name myapp-eks-cluster --region us-east-1
+    aws eks update-kubeconfig --name [name of EKS cluster] --region [region for aws config] 
