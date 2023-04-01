@@ -1,4 +1,4 @@
-### This will create s3 bucket baned with kms encryption
+### This will create s3 bucket backend with kms encryption
 
 ##### pass tinary operator
 count = var.create_vpc ? 1 : 0 # [tinary operator] = will create 1 bucket if variable (create_vpc) is true [if false dont create hence 0]
